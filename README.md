@@ -1,6 +1,7 @@
 # E-commerce Keyboard Shop
 
-This project uses React, MongoDB, and Stripe
+This project utilizes the MERN stack framework alongside Stripe to create an e-commerce worksite
 
-https://user-images.githubusercontent.com/32941163/155814471-b6d74c5b-754b-48e8-93fe-3e0f37113ba8.mov
+
+https://user-images.githubusercontent.com/32941163/155814672-28df4339-6e44-475e-8bae-c0f73ec1850d.mp4
 
